@@ -4,6 +4,8 @@ function sayHi(name){
   if (name){
    return `Hello,${name}!`
   } else {
+   let red = "red";
+   const color = red.match(/r/g)
    return 'Hello'
   }
 }
