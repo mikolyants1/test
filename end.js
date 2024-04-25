@@ -4,5 +4,5 @@ function call(){
     const red = "";
     return red
 }
-console.log("end4")
+console.log("end36")
 console.log("branch")
